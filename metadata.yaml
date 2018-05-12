@@ -1,0 +1,30 @@
+_repo: The-Rope-of-GoldA-Mystery-Story-for-Boys_43102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43102-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Snell, Roy J. (Roy Judson)
+    alias: Snell, Roy Judson
+    birthdate: 1878
+    deathdate: 1959
+    gutenberg_agent_id: '3593'
+    url: http://www.gutenberg.org/2009/agents/3593
+description: ''
+gutenberg_issued: '2013-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Treasure troves -- Juvenile fiction'
+title: 'The Rope of Gold
+
+  A Mystery Story for Boys'
+url: http://www.gutenberg.org/ebooks/43102
